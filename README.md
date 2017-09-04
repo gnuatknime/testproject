@@ -1,8 +1,9 @@
 # Name
-Richard Feynman
+Isaac Newton
 
 # Email
 einstein@princeton.edu
 
 # Project
-QED
+Principia
+De Motu
